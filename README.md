@@ -15,10 +15,3 @@ Hi! I'm Sharanjeet and I am a computer science student at UCR with an interest i
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=sharansingh1&theme=tokyonight&no-frame=false&no-bg=true&margin-w=4)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sharansingh1&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=sharansingh1&icon=5&color=5)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
