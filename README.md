@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! I'm Sharanjeet and I am a computer science student at UCR with an interest in web development and AI.<br>I am currently conducting research in AI, working on a agent that mimics historical figures.<br>
+Hi! I'm Sharanjeet and I am a computer science student at UCR with an interest in web development and AI.
 
 
 ## 🌐 Socials:
